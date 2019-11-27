@@ -1,16 +1,13 @@
 ----------------------------------------------------------------
-Sun Nov 24 23:10:58 COT 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-a0c1-6111-000005b3bcb8 
-on database directory memory:/home/carlos/Escritorio/bankvision/todo1/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Wed Nov 27 01:00:22 COT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-ab72-4385-0000067f4f38 
+on database directory memory:/home/carlos/Escritorio/bankvision/todo1Project/todo1/testdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/carlos/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Private Build
 java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
-user.dir=/home/carlos/Escritorio/bankvision/todo1
+user.dir=/home/carlos/Escritorio/bankvision/todo1Project/todo1
 os.name=Linux
 os.arch=amd64
 os.version=4.15.0-70-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Sun Nov 24 23:11:37 COT 2019:
-Shutting down instance a816c00e-016e-a0c1-6111-000005b3bcb8 on database directory memory:/home/carlos/Escritorio/bankvision/todo1/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 

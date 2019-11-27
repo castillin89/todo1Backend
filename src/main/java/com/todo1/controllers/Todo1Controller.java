@@ -36,6 +36,9 @@ public class Todo1Controller {
     }
 
     @PostMapping("/updateProduct")
+    //Este método será empleado para actualización y salida de productos. En el Front se debe hacer
+    // la validación de inventario disponible, en Backend se valida que la cantidad a actualizar no sea
+    // menor a cero (0).
     public String updateProduct(@RequestBody Map<String, Object> product) throws ServiceException   {
         return todo1Service.updateProduct(product);
     } 
